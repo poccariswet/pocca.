@@ -14,8 +14,8 @@
         href="https://twitch.tv/poccariswet"
         class="iconbtn fab fa-twitch"> </a>
       <a
-        href="https://www.youtube.com/channel/UCb_X0yMWrmPlc7ctApLXNvA"
-        class="iconbtn fab fa-youtube"> </a>
+        href="https://poccariswet.hatenablog.com/"
+        class="iconbtn fas fa-pen-nib"></a>
       <a
         href="https://medium.com/@poccariswet"
         class="iconbtn fab fa-medium"></a>
